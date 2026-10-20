@@ -1,0 +1,1 @@
+{"name":"Schach Offline für iPad","short_name":"Schach Offline","description":"Schach gegen Computer oder zu zweit, vollständig offline.","start_url":"./","scope":"./","display":"standalone","background_color":"#edf2f5","theme_color":"#20384a","icons":[{"src":"icon.png","sizes":"192x192 512x512","type":"image/png","purpose":"any maskable"}]}
